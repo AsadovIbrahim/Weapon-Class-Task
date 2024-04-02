@@ -1,0 +1,15 @@
+C:\Users\CA.R215.19\Desktop\ConsoleApp-Practic\bin\Debug\net6.0\ConsoleApp-Practic.exe
+C:\Users\CA.R215.19\Desktop\ConsoleApp-Practic\bin\Debug\net6.0\ConsoleApp-Practic.deps.json
+C:\Users\CA.R215.19\Desktop\ConsoleApp-Practic\bin\Debug\net6.0\ConsoleApp-Practic.runtimeconfig.json
+C:\Users\CA.R215.19\Desktop\ConsoleApp-Practic\bin\Debug\net6.0\ConsoleApp-Practic.dll
+C:\Users\CA.R215.19\Desktop\ConsoleApp-Practic\bin\Debug\net6.0\ConsoleApp-Practic.pdb
+C:\Users\CA.R215.19\Desktop\ConsoleApp-Practic\obj\Debug\net6.0\ConsoleApp-Practic.csproj.AssemblyReference.cache
+C:\Users\CA.R215.19\Desktop\ConsoleApp-Practic\obj\Debug\net6.0\ConsoleApp-Practic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA.R215.19\Desktop\ConsoleApp-Practic\obj\Debug\net6.0\ConsoleApp-Practic.AssemblyInfoInputs.cache
+C:\Users\CA.R215.19\Desktop\ConsoleApp-Practic\obj\Debug\net6.0\ConsoleApp-Practic.AssemblyInfo.cs
+C:\Users\CA.R215.19\Desktop\ConsoleApp-Practic\obj\Debug\net6.0\ConsoleApp-Practic.csproj.CoreCompileInputs.cache
+C:\Users\CA.R215.19\Desktop\ConsoleApp-Practic\obj\Debug\net6.0\ConsoleApp-Practic.dll
+C:\Users\CA.R215.19\Desktop\ConsoleApp-Practic\obj\Debug\net6.0\refint\ConsoleApp-Practic.dll
+C:\Users\CA.R215.19\Desktop\ConsoleApp-Practic\obj\Debug\net6.0\ConsoleApp-Practic.pdb
+C:\Users\CA.R215.19\Desktop\ConsoleApp-Practic\obj\Debug\net6.0\ConsoleApp-Practic.genruntimeconfig.cache
+C:\Users\CA.R215.19\Desktop\ConsoleApp-Practic\obj\Debug\net6.0\ref\ConsoleApp-Practic.dll
